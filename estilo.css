@@ -1,0 +1,47 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Shantell Sans', cursive;
+    font-style: italic;
+}
+
+body {
+    background: linear-gradient(to right, rgb(40, 117, 135), #37c2cc);
+}
+
+.numeros {
+    background-color: maroon;
+    color: aliceblue;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.letras {
+    background-color: rgb(242, 88, 37);
+    color: aliceblue;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.td1 {
+    color: aliceblue;
+    background-color: rgb(151, 38, 38);
+    text-align: center;
+    font-weight: bold;
+}
+
+.td2 {
+    color: aliceblue;
+    background-color: rgb(221, 98, 57);
+    text-align: center;
+    font-weight: bold;
+}
+
+.table {
+    box-shadow: 0 0 50px darkgrey;
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 0 0 5px red, 0 0 15px red, 0 0 30px red, 0 0 50px red;
+
+}
